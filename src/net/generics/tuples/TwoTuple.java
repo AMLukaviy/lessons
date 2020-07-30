@@ -1,4 +1,4 @@
-package net.generics;
+package net.generics.tuples;
 
 public class TwoTuple<A, B> {
     public final A first;

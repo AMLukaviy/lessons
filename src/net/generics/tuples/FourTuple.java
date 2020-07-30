@@ -1,4 +1,4 @@
-package net.generics;
+package net.generics.tuples;
 
 public class FourTuple<A, B, C, D> extends ThreeTuple<A, B, C> {
     public final D fourth;
